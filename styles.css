@@ -54,7 +54,7 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 1.2rem 2rem;
+    padding: 0.5rem 2rem;
     background: rgba(6, 8, 14, 0.85);
     border-bottom: 1px solid var(--silver-border);
     backdrop-filter: blur(10px);
@@ -334,7 +334,7 @@ body {
 .hint-box {
     background: rgba(0, 242, 254, 0.05);
     border-left: 3px solid var(--blue-primary);
-    padding: 1rem;
+    padding: 0.5rem;
     margin-top: 0.8rem;
     border-radius: 0 6px 6px 0;
     font-size: 0.95rem;
@@ -409,7 +409,7 @@ body {
     padding: 3rem 2rem;
     text-align: center;
     max-width: 650px;
-    margin: 0 auto;
+    margin: 0.5rem auto 2rem auto;
 }
 
 .result-card h2 {
@@ -420,7 +420,7 @@ body {
 
 .result-subtitle {
     color: var(--blue-primary);
-    margin-bottom: 2.5rem;
+    margin-bottom: 2.0rem;
 }
 
 .metrics-grid {
